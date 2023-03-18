@@ -1,0 +1,1 @@
+# My studies within the scope of "Patika Backend Web Development with INTERMEDIATE Level Java" course.
