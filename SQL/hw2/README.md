@@ -1,5 +1,4 @@
 #Ödev 2
-Merhabalar,
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
